@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://www.matterandmethod.net/sitemap.xml
+Disallow: /
